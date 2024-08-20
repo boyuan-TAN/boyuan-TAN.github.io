@@ -2,9 +2,9 @@
 title: "Teaching Assistant for Capstone Project"
 collection: teaching
 type: Capstone Project"
-permalink: /teaching/2015-spring-teaching-2
+permalink: /teaching/2024-spring-teaching-2
 venue: "the University of Sydney, School of Computer Science"
-date: 2015-01-01
+date: 2024-02-01
 location: "Sydney, Australia"
 ---
 
