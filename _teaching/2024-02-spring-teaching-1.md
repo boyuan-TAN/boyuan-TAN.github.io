@@ -2,7 +2,7 @@
 title: "INFO5992"
 collection: teaching
 type: "Master course"
-permalink: /teaching/INFO5992
+permalink: /teaching/2024-02-spring-teaching-1
 venue: "the University of Sydney, School of Computer Science"
 date: 2024-02
 location: "Sydney, Austraia"
