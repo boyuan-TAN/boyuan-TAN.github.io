@@ -1,10 +1,10 @@
 ---
-title: "INFO5992"
+title: "Teaching experience 1"
 collection: teaching
 type: "Master course"
 permalink: /teaching/2024-02-spring-teaching-1
 venue: "the University of Sydney, School of Computer Science"
-date: 2024-02
+date: 2014-01-01
 location: "Sydney, Austraia"
 ---
 [INFO5992 Understanding IT Innovation](https://www.sydney.edu.au/units/INFO5992)
