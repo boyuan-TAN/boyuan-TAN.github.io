@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant for Capstone Project"
 collection: teaching
-type: "Capstone Project"
+type: "teaching"
 permalink: /teaching/capstoneTA
 venue: "the University of Sydney, School of Computer Science"
 date: 2024-02
